@@ -7,6 +7,8 @@ pygame.init()
 window = pygame.display.set_mode(size=(800, 600))
 print('Setup End')
 
+print('Leo')
+
 print('Setup Start')
 while True:
     # Check for all events
